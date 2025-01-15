@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GabrielBeckler
-- 👀 I’m interested in programação python
-- 🌱 I’m currently learning programação full stack.
-- 📫 How to reach me 3198580-7406
+- 👋 Olá, eu sou @GabrielBeckler
+- 👀 Sou interessado em programação python.
+- 🌱 Estou cursando programação full stack.
+- 📫Me chame no número (31)98580-7406
 
 <!---
 GabrielBeckler/GabrielBeckler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
