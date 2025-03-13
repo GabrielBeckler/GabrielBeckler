@@ -1,7 +1,7 @@
-#Olá, meu nome é GabrielBeckler
+# Olá, meu nome é GabrielBeckler
 - 🧑‍💻 Estou cursando programação FullStack
 - ⌨️ Áreas: Python, C#, HTML/CSS, MySQLite e JS
-- 🏫 Cursando ensino médio tecnico em informatica
+- 🏫 Cursando ensino médio técnico em informática
 
 ###
 
@@ -23,17 +23,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />" heigth="30" alt="c# logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="c# logo"/>
 </div>
 
 ###
 
 <div align="center">
-  </a>
   <a href="https://www.linkedin.com/in/gabriel-manteufel-f-beckler-434284316/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -43,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Emersondesousa/Emersondesousa/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/GabrielBeckler/GabrielBeckler/main/dist/snake.svg)
 
 ###
