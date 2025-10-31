@@ -1,8 +1,15 @@
-# Olá, meu nome é GabrielBeckler
-- 🧑‍💻 Estou cursando programação FullStack
-- ⌨️ Áreas: Python, C#, HTML/CSS, MySQLite e JS
-- 🏫 Cursando ensino médio técnico em informática
+# Olá, eu sou Gabriel 👋
 
+## Sobre mim
+Estudante e desenvolvedor web, atualmente trabalhando na **Manateus Soluções Tecnológicas**.  
+Apaixonado por criar **landing pages personalizadas** e desenvolver **soluções web completas**.
+
+- 🌱 Atualmente estudando **C#** e aprimorando **HTML/CSS/JS**  
+- 💻 Experiência com **Vue, React, Next.js, Node.js, TypeScript, MUI e Charts.js**  
+- 🗄 Bancos de dados: **MySQLite**  
+- 📫 Contato: [Seu Email] | [LinkedIn] | [Portfólio]
+
+---
 ###
 
 <div align="center">
@@ -12,22 +19,25 @@
 </div>
 
 ###
+## Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="c# logo"/>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Charts.js](https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chartsdotjs&logoColor=white)
+![MySQLite](https://img.shields.io/badge/MySQLite-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+---
 ###
+
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-manteufel-f-beckler-434284316/" target="_blank">
@@ -36,7 +46,9 @@
   <a href="https://www.instagram.com/beckler.og/" target=_blank>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
+ <a href="mailto:gabrielbhte0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
 </div>
 
 ###
