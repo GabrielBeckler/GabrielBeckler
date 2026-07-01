@@ -4,9 +4,9 @@
 Estudante e desenvolvedor web, atualmente trabalhando na **Manateus Soluções Tecnológicas**.  
 Apaixonado por criar **landing pages personalizadas** e desenvolver **soluções web completas**.
 
-- 🌱 Atualmente estudando **C#** e aprimorando **HTML/CSS/JS**  
-- 💻 Experiência com **Vue, React, Next.js, Node.js, TypeScript, MUI e Charts.js**  
-- 🗄 Bancos de dados: **MySQLite, PostgreSQL, Docker, MySQL**  
+-  Atualmente estudando **C#** e aprimorando **HTML/CSS/JS**  
+-  Experiência com **Vue, React, Next.js, Node.js, TypeScript, MUI e Charts.js**  
+-  Bancos de dados: **MySQLite, PostgreSQL, Docker, MySQL**  
 
 ---
 ###
