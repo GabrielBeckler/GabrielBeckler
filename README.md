@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Beckler
+# Olá, eu sou Gabriel Beckler
 
 ### Desenvolvedor Full Stack | Estudante de Técnico em Informática 
 
@@ -14,16 +14,6 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, **C#**, desenvolvi
 - 💻 Desenvolvendo projetos pessoais para fortalecer meu portfólio
 - 🌐 Experiência com aplicações web utilizando React, Next.js, Vue.js e Node.js
 - 🎯 Buscando oportunidades para crescer como Desenvolvedor Full Stack
-
----
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielBeckler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBeckler&layout=compact&theme=dark"/>
-
-</div>
 
 ---
 
